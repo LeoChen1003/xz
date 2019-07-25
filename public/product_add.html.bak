@@ -1,0 +1,22 @@
+<h2>添加商品</h2>
+<form method="post" action="/product/add">
+	家族编号：<input type="text" name=""><br>
+	主标题：<input type="text" name=""><br>
+	副标题：<input type="text" name=""><br>
+	价格：<input type="text" name=""><br>
+	服务承诺：<input type="text" name=""><br>
+	规格：<input type="text" name=""><br>
+	商品名称：<input type="text" name=""><br>
+	操作系统：<input type="text" name=""><br>
+	内存容量：<input type="text" name=""><br>
+	分辨率：<input type="text" name=""><br>
+	显卡型号：<input type="text" name=""><br>
+	处理器：<input type="text" name=""><br>
+	显存容量：<input type="text" name=""><br>
+	所属分类：<input type="text" name=""><br>
+	硬盘容量及类型：<input type="text" name=""><br>
+	产品详细说明：<input type="text" name=""><br>
+	上架时间：<input type="text" name=""><br>
+	已售出的数量：<input type="text" name=""><br>
+	是否在售：<input type="text" name="">
+</form>
